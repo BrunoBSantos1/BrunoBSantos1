@@ -5,7 +5,7 @@ Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2
 
 ## Habilidades
 
-<img src="/assets/Angular.png" width="20" height="20">   <img src="/assets/Typescript.png" width="20" height="20">  <img src="/assets/HTML.png" width="20" height="20">  <img src="/assets/CSS3.png" width="20" height="20">  <img src="/assets/javascript.png" width="40" height="20"> <img src="/assets/Git.png" width="20" height="20">
+<img src="/assets/Angular.png" width="50">   <img src="/assets/Typescript.png" width="50">  <img src="/assets/HTML.png" width="50">  <img src="/assets/CSS3.png" width="50">  <img src="/assets/javascript.png" width="100"> <img src="/assets/Git.png" width="50">
 
 ## Linguagens mais Usadas
 

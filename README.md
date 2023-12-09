@@ -10,13 +10,14 @@ Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2
 <img src="https://fontawesome.com/icons/javascript?style=brands" width="20" height="20"> JavaScript
 <img src="https://fontawesome.com/icons/css3?style=brands" width="20" height="20"> CSS
 
+## Linguagens mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBSantos1&layout=compact)](https://github.com/seu-username)
+
 ## Estatísticas do GitHub
 
 [![Seu Nome GitHub Stat](https://github-readme-stats.vercel.app/api?username=BrunoBSantos1&show_icons=true&count_private=true)](https://github.com/seu-username)
 
-## Linguagens mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBSantos1&layout=compact)](https://github.com/seu-username)
 
 ## Vamos Conectar!
 

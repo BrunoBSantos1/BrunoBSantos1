@@ -18,7 +18,5 @@ Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2
 
 ## Vamos Conectar!
 
-[![Linkedin Badge](URL do seu perfil do Linkedin)](URL do seu perfil do Linkedin)
-[![Twitter Badge](URL do seu perfil do Twitter)](URL do seu perfil do Twitter)
-[![Website Badge](URL do seu website ou blog)](URL do seu website ou blog)
+<a src="https://www.linkedin.com/in/bruno-batista-santos-367a351b5/" target="blank"><img src="/assets/Angular.png" width="50"></a>
 

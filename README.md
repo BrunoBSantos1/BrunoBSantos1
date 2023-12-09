@@ -5,10 +5,12 @@ Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2
 
 ## Habilidades
 
-- <img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" width="20" height="20"> Angular <img src="https://fontawesome.com/icons/html5?style=brands" width="20" height="20"> HTML
-<img src="https://fontawesome.com/icons/typescript?style=brands" width="20" height="20"> TypeScript
-<img src="https://fontawesome.com/icons/javascript?style=brands" width="20" height="20"> JavaScript
-<img src="https://fontawesome.com/icons/css3?style=brands" width="20" height="20"> CSS
+<img src="/assets/Angular.png" width="20" height="20"> 
+<img src="/assets/Typescript.png" width="20" height="20">
+<img src="/assets/HTML.png" width="20" height="20">
+<img src="/assets/CSS3.png" width="20" height="20">
+<img src="/assets/javascript.png" width="20" height="20">
+<img src="/assets/Git.png" width="20" height="20">
 
 ## Linguagens mais Usadas
 

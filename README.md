@@ -2,16 +2,6 @@
 
 Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2+. Atualmente, estou trabalhando como mentor em uma formação focada em cloud (GCP), além de está trabalhando em projetos pessoais focado no desenvolvimento com Angular e Firebase.
 
-## Experiência Profissional
-
-### Inventione - Desenvolvedor Front-End (Estágio)
-- Durou 1 ano e 5 meses, onde pude participar dos planejamentos de sprints, desenvolvimento de novas features, resolução e identificação de bugs, análise de requisitos, migração do sistema legado para microsserviços.
-
-### Monitor Programação Web Front-End
-- Auxiliar os alunos da faculdade que estavão com dúvidas na matéria. Focado em HTML, CSS, JavaScript e Bootstrap.
-
-### Mentor Formação Associate Cloud Enginner (GCP)
-- Auxiliar os alunos a conseguir finalizar a formação
 
 ## Habilidades
 

@@ -18,4 +18,4 @@ Sou um Desenvolvedor Front-End com experiência no desenvolvimento com Angular 2
 
 ## Vamos Conectar!
 
-[<img src="/assets/Linkedin.png" width="50">](https://www.linkedin.com/in/bruno-batista-santos-367a351b5/)  [<img src="/assets/Gmail.png" width="50">](brunobatysta.fla@gmail.com)
+[<img src="/assets/Linkedin.png" width="50">](https://www.linkedin.com/in/bruno-batista-santos-367a351b5/)
